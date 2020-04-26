@@ -2,8 +2,8 @@
 ## 解释单词
 
 ## 句型
-- Good morning, daddy.
-- Good morning, son.
+- Good morning, Zhao Feng.
+- Good morning, Zhao JingXu.
 
 - How are you?
 - I'm fine, thank you.
